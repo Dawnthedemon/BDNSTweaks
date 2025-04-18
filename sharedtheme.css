@@ -1,1 +1,11 @@
-
+.cover {
+  -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, 
+    from(rgba(0,0,0,0.9)), to(rgba(0,0,0,0)));
+}
+.chat-message[data-username="Dawnthedemon"] {color: #a600ff}
+.chat-message[data-username="S̬ͭ̕h̵ͬa̢̽w͊̀ǃ̡̋"] {color: #C53448}
+.chat-message[data-username="Weeblikeartist"] {color: #e53600}
+.chat-message[data-username="Weeblikearsonist"] {color: #e53600}
+.chat-message[data-username="VGMoose"] {color: #ffe100}
+.chat-message[data-username="buju"] {color: #0dff00}
+.chat-message[data-username="SupearMan"] {color: #ff8b16}
